@@ -1,6 +1,7 @@
 # GM Journal
+Questo è un piccolo progetto personale, una prima versione in italiano; è stato sviluppato con un misto di vibe-coding e coding tradizionale. Si tratta del mio primo software sviluppato in autonomia, non posso quindi assicurarne il funzionamento perfetto, prego chiunque voglia utilizzarlo a segnalare eventuali bug o problematiche. Grazie e buona scrittura.
 
-Un programma gratuito per **costruire il mondo e scrivere le campagne** dei giochi di ruolo (D&D e simili).
+Un piccolo programma gratuito per **costruire il mondo e scrivere le campagne** dei giochi di ruolo (D&D e simili).
 Tutto in un solo posto, con un aspetto scuro e minimale, e i tuoi dati restano sul tuo computer.
 
 ![L'editor di Scrittura: testo, box per il Master, tabella e collegamenti a personaggi, luoghi e organizzazioni](docs/img/scrittura.png)
