@@ -1,0 +1,24 @@
+# File temporanei di Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambienti virtuali
+.venv/
+venv/
+
+# Risultati della creazione degli installer
+build/
+dist/
+*.egg-info/
+
+# Dati dell'utente (campagne e backup della versione portatile)
+Campagne/
+Backup/
+*.db
+
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
