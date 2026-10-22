@@ -12,6 +12,12 @@ build/
 dist/
 *.egg-info/
 
+# Risultati della creazione degli installer
+build/
+dist/
+*.egg-info/
+installer/out/
+
 # Dati dell'utente (campagne e backup della versione portatile)
 Campagne/
 Backup/
