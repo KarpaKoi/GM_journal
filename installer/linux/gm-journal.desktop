@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=GM Journal
+Comment=Worldbuilding e scrittura per campagne di gioco di ruolo
+Exec="@EXEC@"
+Icon=gm-journal
+Terminal=false
+Categories=Office;Utility;
+StartupWMClass=gm-journal
